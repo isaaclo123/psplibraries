@@ -1,4 +1,5 @@
 #!/bin/bash
+exit 1
 
 PREFIX=$(psp-config --psp-prefix)
 
